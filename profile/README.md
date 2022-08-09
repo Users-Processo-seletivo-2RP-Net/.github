@@ -1,4 +1,4 @@
-<img src="https://github.com/Lucas-Araujo15/WishList/blob/main/banner-wishlist.png](https://github.com/Users-Processo-seletivo-2RP-Net/.github/blob/main/profile/banner.png">
+<img src="https://github.com/Users-Processo-seletivo-2RP-Net/.github/blob/main/profile/banner.png">
 
 # Users
 Projeto desenvolvido para a fase 4 do processo seletivo para a vaga de estágio FullStack, promovido pela 2RP Net
