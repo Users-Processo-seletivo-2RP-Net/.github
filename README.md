@@ -1,11 +1,9 @@
-# Your WishList
-Projeto para cadastro e listagem de desejos envolvendo todas as etapas de desenvolvimento (desde prototipação até o desenvolvimento das áreas – bd/backend/design/frontend).
+# Users
+Projeto desenvolvido para a fase 4 do processo seletivo para a vaga de estágio FullStack, promovido pela 2RP Net
 
 ## Tecnologias utilizadas
 * SQL Server (Banco de dados)
 * C# (Criação da API)
-* HTML (Estruturação da página)
-* CSS (Estilização da página)
 * ReactJs (Interface do usuário)
 * Figma (Layouts e prototipação)
 
